@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DC2808671A2D32550066CD65 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DC2808661A2D32550066CD65 /* main.cpp */; };
+		DC28086E1A2D34160066CD65 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DC28086D1A2D34160066CD65 /* main.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		DC2808631A2D32550066CD65 /* Guess a Number */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Guess a Number"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DC2808661A2D32550066CD65 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		DC28086D1A2D34160066CD65 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		DC2808651A2D32550066CD65 /* Guess a Number */ = {
 			isa = PBXGroup;
 			children = (
-				DC2808661A2D32550066CD65 /* main.cpp */,
+				DC28086D1A2D34160066CD65 /* main.m */,
 			);
 			path = "Guess a Number";
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DC2808671A2D32550066CD65 /* main.cpp in Sources */,
+				DC28086E1A2D34160066CD65 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
